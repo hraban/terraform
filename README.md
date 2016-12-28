@@ -1,3 +1,6 @@
+*The point of this fork is to support automated terraform manipulation.
+Preferably with the least amount of work.*
+
 Terraform
 =========
 
